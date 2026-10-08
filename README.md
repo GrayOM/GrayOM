@@ -21,6 +21,17 @@ I do security research on open-source web software. I reproduce each issue in a 
 - Every report includes a local Docker reproduction, a negative control and the vendor's own code path.
 - I re-test the vendor's patch before it ships, and I report it when the fix is incomplete.
 
+### 📬 Security review for your open-source project
+
+Maintainers who want a security review of their project are welcome to reach me at **tmdals7205@gmail.com**.
+
+My approach differs from a code scan in a few ways, and I'm happy to walk through any of them:
+
+- **Lab first:** your software runs in a disposable local lab, and I measure what each role (anonymous, low-privilege, admin) can actually reach before reading code to explain it.
+- **Every file read, not a sample:** the whole tree is read, so findings are not limited to the "core" files a reviewer would usually pick.
+- **Proof, not pattern matches:** each finding comes with a reproduction, a negative control and the exact code path, and I re-test your patch before it ships.
+- **Private and coordinated:** nothing is published until you are ready.
+
 ### 🙏 Thanks
 
 Thank you to **[ubicloud](https://github.com/ubicloud)**, **[Countly](https://github.com/Countly)** and **[Paid Memberships Pro](https://github.com/strangerstudios)** for supporting this research, and for working through each fix together.
