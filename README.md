@@ -1,6 +1,6 @@
 ## Hi, I'm GrayOM 👋
 
-I do security research on open-source web software. I reproduce each issue in a local lab, report it privately to the vendor, and follow it through until the fix ships.
+I work in **vulnerability assessment**: finding real security weaknesses, proving them, and helping vendors fix them. My methods and tooling get better every day, and every finding below was confirmed by the vendor.
 
 ### 🔐 Published findings
 
