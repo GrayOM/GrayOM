@@ -27,9 +27,8 @@ My methods and tooling get better every day, and every finding below was confirm
 | [Swetrix/swetrix](https://github.com/Swetrix/swetrix) | Server-Side Request Forgery (SSRF) — **CVE-2026-81506** | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-fcm9-fvcm-3p55](https://github.com/Swetrix/swetrix/security/advisories/GHSA-fcm9-fvcm-3p55) |
 | [NangoHQ/nango](https://github.com/NangoHQ/nango) | SQL Injection | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-8m28-9wcj-v8ww](https://github.com/NangoHQ/nango/security/advisories/GHSA-8m28-9wcj-v8ww) |
 | [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | Information Disclosure (4 commits) | ![Low](https://img.shields.io/badge/-Low-0969da?style=flat-square) | [#6399](https://github.com/ubicloud/ubicloud/pull/6399) · [#6407](https://github.com/ubicloud/ubicloud/pull/6407) |
-| [strangerstudios/paid-memberships-pro](https://github.com/strangerstudios/paid-memberships-pro) | Broken Access Control — Sensitive File Exposure | ![Medium 5.9](https://img.shields.io/badge/-Medium-bf8700?style=flat-square) | [3.8.8 release](https://github.com/strangerstudios/paid-memberships-pro/releases/tag/3.8.8) · [#3847](https://github.com/strangerstudios/paid-memberships-pro/pull/3847) |
+| [strangerstudios/paid-memberships-pro](https://github.com/strangerstudios/paid-memberships-pro) | Broken Access Control — Sensitive File Exposure | ![Medium](https://img.shields.io/badge/-Medium-bf8700?style=flat-square) | [3.8.8 release](https://github.com/strangerstudios/paid-memberships-pro/releases/tag/3.8.8) · [#3847](https://github.com/strangerstudios/paid-memberships-pro/pull/3847) |
 
-<sub>Severity is the vendor's rating where one was given (GitHub advisory or vendor reply). \* No vendor rating: our own CVSS 3.1 assessment, `AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N`.</sub>
 
 ## ⏳ In coordinated disclosure
 
