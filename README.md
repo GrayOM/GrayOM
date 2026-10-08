@@ -18,18 +18,16 @@ I do security research on open-source web software. I reproduce each issue in a 
 
 ### 🛠️ How I work
 
-- Every report includes a local Docker reproduction, a negative control and the vendor's own code path.
+- Every report comes with a working reproduction, a negative control and the exact code path.
 - I re-test the vendor's patch before it ships, and I report it when the fix is incomplete.
 
 ### 📬 Security review for your open-source project
 
-Maintainers who want a security review of their project are welcome to reach me at **tmdals7205@gmail.com**.
+Maintainers who want a security review of their project are welcome to reach me at **tmdals7205@gmail.com**. My process has a few distinctive points, and I'm happy to explain them in detail:
 
-My approach differs from a code scan in a few ways, and I'm happy to walk through any of them:
-
-- **Lab first:** your software runs in a disposable local lab, and I measure what each role (anonymous, low-privilege, admin) can actually reach before reading code to explain it.
-- **Every file read, not a sample:** the whole tree is read, so findings are not limited to the "core" files a reviewer would usually pick.
-- **Proof, not pattern matches:** each finding comes with a reproduction, a negative control and the exact code path, and I re-test your patch before it ships.
+- **Every file, not a sample:** most AI-agent audits read only part of a codebase, typically the files that look most important. My review runs an exhaustive chain that covers every file of the project, so issues outside the "core" are not missed.
+- **A 14-stage review chain:** each project goes through a fixed sequence of stages. Each stage hands its results to the next, from running the software and measuring what each kind of user can reach, through full-tree analysis, to the final verified report.
+- **Reproduced before reported:** nothing is reported until it has been reproduced and captured on screen. That keeps false positives rare.
 - **Private and coordinated:** nothing is published until you are ready.
 
 ### 🙏 Thanks
