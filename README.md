@@ -23,4 +23,4 @@ I do security research on open-source web software. I reproduce each issue in a 
 
 ### 🙏 Thanks
 
-Thank you to **[ubicloud](https://github.com/ubicloud)** for supporting this research and for the generous follow-up on the fix.
+Thank you to **[ubicloud](https://github.com/ubicloud)**, **[Countly](https://github.com/Countly)** and **[Paid Memberships Pro](https://github.com/strangerstudios)** for supporting this research, and for working through each fix together.
