@@ -7,7 +7,7 @@
 <br>
 
 [![Published CVEs](https://img.shields.io/badge/Published_CVEs-2-d73a49?style=for-the-badge)](#-published-findings)
-[![Credited findings](https://img.shields.io/badge/Credited_findings-5-0969da?style=for-the-badge)](#-published-findings)
+[![Credited findings](https://img.shields.io/badge/Credited_findings-7-0969da?style=for-the-badge)](#-published-findings)
 [![In coordinated disclosure](https://img.shields.io/badge/In_coordinated_disclosure-6-bf8700?style=for-the-badge)](#-in-coordinated-disclosure)
 
 [![Contact](https://img.shields.io/badge/Security_review-tmdals7205%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:tmdals7205@gmail.com)
@@ -28,6 +28,8 @@ My methods and tooling get better every day, and every finding below was confirm
 | [NangoHQ/nango](https://github.com/NangoHQ/nango) | SQL Injection | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-8m28-9wcj-v8ww](https://github.com/NangoHQ/nango/security/advisories/GHSA-8m28-9wcj-v8ww) |
 | [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | Information Disclosure (4 commits) | ![Low](https://img.shields.io/badge/-Low-0969da?style=flat-square) | [#6399](https://github.com/ubicloud/ubicloud/pull/6399) · [#6407](https://github.com/ubicloud/ubicloud/pull/6407) |
 | [strangerstudios/paid-memberships-pro](https://github.com/strangerstudios/paid-memberships-pro) | Sensitive File Exposure — member file uploads | ![Medium](https://img.shields.io/badge/-Medium-bf8700?style=flat-square) | [3.8.8 release](https://github.com/strangerstudios/paid-memberships-pro/releases/tag/3.8.8) · [#3847](https://github.com/strangerstudios/paid-memberships-pro/pull/3847) |
+| [teableio/teable](https://github.com/teableio/teable) | SQL Injection — base import, physical column name | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-gj7m-w85q-hrj7](https://github.com/teableio/teable/security/advisories/GHSA-gj7m-w85q-hrj7) |
+| [teableio/teable](https://github.com/teableio/teable) | Broken Access Control — share-view scope bypass (co-reporter) | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-2333-p777-m9ww](https://github.com/teableio/teable/security/advisories/GHSA-2333-p777-m9ww) |
 
 
 ## ⏳ In coordinated disclosure
