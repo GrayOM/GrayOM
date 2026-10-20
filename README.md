@@ -8,7 +8,7 @@
 
 [![Published CVEs](https://img.shields.io/badge/Published_CVEs-2-d73a49?style=for-the-badge)](#-published-findings)
 [![Credited findings](https://img.shields.io/badge/Credited_findings-7-0969da?style=for-the-badge)](#-published-findings)
-[![In coordinated disclosure](https://img.shields.io/badge/In_coordinated_disclosure-7-bf8700?style=for-the-badge)](#-in-coordinated-disclosure)
+[![In coordinated disclosure](https://img.shields.io/badge/In_coordinated_disclosure-6-bf8700?style=for-the-badge)](#-in-coordinated-disclosure)
 
 [![Contact](https://img.shields.io/badge/Security_review-tmdals7205%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:tmdals7205@gmail.com)
 
@@ -34,7 +34,7 @@ My methods and tooling get better every day, and every finding below was confirm
 
 ## ⏳ In coordinated disclosure
 
-> **7** more findings have been confirmed by their vendors and are waiting for publication.
+> **6** more findings have been confirmed by their vendors and are waiting for publication.
 > Details will appear here once each vendor publishes.
 
 ## 🛠️ How I work
