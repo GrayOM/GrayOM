@@ -7,7 +7,7 @@
 <br>
 
 [![Published CVEs](https://img.shields.io/badge/Published_CVEs-2-d73a49?style=for-the-badge)](#-published-findings--cves--credits)
-[![Credited findings](https://img.shields.io/badge/Credited_findings-5-0969da?style=for-the-badge)](#-published-findings--cves--credits)
+[![Credited findings](https://img.shields.io/badge/Credited_findings-6-0969da?style=for-the-badge)](#-published-findings--cves--credits)
 [![Bug bounties](https://img.shields.io/badge/Bug_bounties-3-2da44e?style=for-the-badge)](#-bug-bounties)
 [![In coordinated disclosure](https://img.shields.io/badge/In_coordinated_disclosure-7-bf8700?style=for-the-badge)](#-in-coordinated-disclosure)
 
@@ -29,6 +29,7 @@ My methods and tooling get better every day, and every finding below was confirm
 | [NangoHQ/nango](https://github.com/NangoHQ/nango) | SQL Injection | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-8m28-9wcj-v8ww](https://github.com/NangoHQ/nango/security/advisories/GHSA-8m28-9wcj-v8ww) |
 | [teableio/teable](https://github.com/teableio/teable) | SQL Injection | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-gj7m-w85q-hrj7](https://github.com/teableio/teable/security/advisories/GHSA-gj7m-w85q-hrj7) |
 | [teableio/teable](https://github.com/teableio/teable) | Broken Access Control | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-2333-p777-m9ww](https://github.com/teableio/teable/security/advisories/GHSA-2333-p777-m9ww) (co-reported) |
+| [supertokens/supertokens-node](https://github.com/supertokens/supertokens-node) | Path Confusion | ![Medium](https://img.shields.io/badge/-Medium-bf8700?style=flat-square) | [GHSA-46hr-c4pm-7mx5](https://github.com/supertokens/supertokens-node/security/advisories/GHSA-46hr-c4pm-7mx5) |
 
 
 ## 💰 Bug bounties
@@ -44,7 +45,7 @@ Findings the vendor rewarded at its own discretion. Amounts are not listed.
 
 ## ⏳ In coordinated disclosure
 
-> **7** more findings have been confirmed by their vendors and are waiting for publication.
+> **6** more findings have been confirmed by their vendors and are waiting for publication.
 > Details will appear here once each vendor publishes.
 
 ## 🛠️ How I work
