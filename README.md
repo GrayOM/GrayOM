@@ -43,7 +43,7 @@ Findings the vendor rewarded at its own discretion. Amounts are not listed.
 | [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | Information Disclosure | ![Low](https://img.shields.io/badge/-Low-0969da?style=flat-square) | [#6399](https://github.com/ubicloud/ubicloud/pull/6399) · [#6407](https://github.com/ubicloud/ubicloud/pull/6407) |
 | [strangerstudios/paid-memberships-pro](https://github.com/strangerstudios/paid-memberships-pro) | Sensitive File Exposure | ![Medium](https://img.shields.io/badge/-Medium-bf8700?style=flat-square) | [3.8.8 release](https://github.com/strangerstudios/paid-memberships-pro/releases/tag/3.8.8) · [#3847](https://github.com/strangerstudios/paid-memberships-pro/pull/3847) |
 | [Countly/countly-server](https://github.com/Countly/countly-server) | Unauthenticated Stored Prototype Pollution | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-p78q-3v9r-c8qg](https://github.com/Countly/countly-server/security/advisories/GHSA-p78q-3v9r-c8qg) |
-| [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) | App-scoped API key takes over sibling applications | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-4rf2-xqvf-8rcx](https://github.com/supertokens/supertokens-core/security/advisories/GHSA-4rf2-xqvf-8rcx) |
+| [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) | App-scoped API key takes over sibling applications | ![Critical](https://img.shields.io/badge/-Critical-8b0000?style=flat-square) | [GHSA-4rf2-xqvf-8rcx](https://github.com/supertokens/supertokens-core/security/advisories/GHSA-4rf2-xqvf-8rcx) |
 
 
 ## ⏳ In coordinated disclosure
