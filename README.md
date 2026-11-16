@@ -6,9 +6,9 @@
 
 <br>
 
-[![Published CVEs](https://img.shields.io/badge/Published_CVEs-4-d73a49?style=for-the-badge)](#-published-findings--cves--credits)
-[![Credited findings](https://img.shields.io/badge/Credited_findings-9-0969da?style=for-the-badge)](#-published-findings--cves--credits)
-[![Bug bounties](https://img.shields.io/badge/Bug_bounties-4-2da44e?style=for-the-badge)](#-bug-bounties)
+[![Published CVEs](https://img.shields.io/badge/Published_CVEs-6-d73a49?style=for-the-badge)](#-published-findings--cves--credits)
+[![Credited findings](https://img.shields.io/badge/Credited_findings-7-0969da?style=for-the-badge)](#-published-findings--cves--credits)
+[![Bug bounties](https://img.shields.io/badge/Bug_bounties-6-2da44e?style=for-the-badge)](#-bug-bounties)
 [![In coordinated disclosure](https://img.shields.io/badge/In_coordinated_disclosure-4-bf8700?style=for-the-badge)](#-in-coordinated-disclosure)
 
 [![Contact](https://img.shields.io/badge/Security_review-tmdals7205%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:tmdals7205@gmail.com)
@@ -26,13 +26,11 @@ My methods and tooling get better every day, and every finding below was confirm
 |---|---|:---:|---|
 | [frain-dev/convoy](https://github.com/frain-dev/convoy) | Insecure Direct Object Reference (IDOR) | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | **CVE-2026-81505** · [GHSA-p5vg-v7mj-f6q4](https://github.com/frain-dev/convoy/security/advisories/GHSA-p5vg-v7mj-f6q4) |
 | [Swetrix/swetrix](https://github.com/Swetrix/swetrix) | Server-Side Request Forgery (SSRF) | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | **CVE-2026-81506** · [GHSA-fcm9-fvcm-3p55](https://github.com/Swetrix/swetrix/security/advisories/GHSA-fcm9-fvcm-3p55) |
-| [NangoHQ/nango](https://github.com/NangoHQ/nango) | SQL Injection | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-8m28-9wcj-v8ww](https://github.com/NangoHQ/nango/security/advisories/GHSA-8m28-9wcj-v8ww) |
+| [NangoHQ/nango](https://github.com/NangoHQ/nango) | SQL Injection | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | **CVE-2026-125759** · [GHSA-8m28-9wcj-v8ww](https://github.com/NangoHQ/nango/security/advisories/GHSA-8m28-9wcj-v8ww) |
 | [teableio/teable](https://github.com/teableio/teable) | SQL Injection | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-gj7m-w85q-hrj7](https://github.com/teableio/teable/security/advisories/GHSA-gj7m-w85q-hrj7) |
 | [teableio/teable](https://github.com/teableio/teable) | Broken Access Control | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-2333-p777-m9ww](https://github.com/teableio/teable/security/advisories/GHSA-2333-p777-m9ww) (co-reported) |
-| [supertokens/supertokens-node](https://github.com/supertokens/supertokens-node) | Path Confusion | ![Medium](https://img.shields.io/badge/-Medium-bf8700?style=flat-square) | [GHSA-46hr-c4pm-7mx5](https://github.com/supertokens/supertokens-node/security/advisories/GHSA-46hr-c4pm-7mx5) |
-| [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) | API Key & IP Checks Skipped for Unknown App IDs (App ID Existence Oracle) | ![Medium](https://img.shields.io/badge/-Medium-bf8700?style=flat-square) | [GHSA-8q27-96vx-r652](https://github.com/supertokens/supertokens-core/security/advisories/GHSA-8q27-96vx-r652) |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Cross-Account Authorization Bypass (IDOR via source_id) | ![Low](https://img.shields.io/badge/-Low-0969da?style=flat-square) | **CVE-2026-115725** · [VulnCheck advisory](https://www.vulncheck.com/advisories/chatwoot-before-4.17.0-cross-account-authorization-bypass-via-source-id) (VulnCheck CNA) |
-| [aptabase/aptabase](https://github.com/aptabase/aptabase) | Account Takeover via Published Default Secret (forged sign-in links) | ![Low](https://img.shields.io/badge/-Low-0969da?style=flat-square) | [GHSA-gc76-cqm4-vqcf](https://github.com/aptabase/aptabase/security/advisories/GHSA-gc76-cqm4-vqcf) |
+| [aptabase/aptabase](https://github.com/aptabase/aptabase) | Account Takeover via Published Default Secret (forged sign-in links) | ![Low](https://img.shields.io/badge/-Low-0969da?style=flat-square) | **CVE-2026-125758** · [GHSA-gc76-cqm4-vqcf](https://github.com/aptabase/aptabase/security/advisories/GHSA-gc76-cqm4-vqcf) |
 
 
 ## 💰 Bug bounties
@@ -45,6 +43,8 @@ Findings the vendor rewarded at its own discretion. Amounts are not listed.
 | [strangerstudios/paid-memberships-pro](https://github.com/strangerstudios/paid-memberships-pro) | Sensitive File Exposure | ![Medium](https://img.shields.io/badge/-Medium-bf8700?style=flat-square) | [3.8.8 release](https://github.com/strangerstudios/paid-memberships-pro/releases/tag/3.8.8) · [#3847](https://github.com/strangerstudios/paid-memberships-pro/pull/3847) |
 | [Countly/countly-server](https://github.com/Countly/countly-server) | Unauthenticated Stored Prototype Pollution | ![High](https://img.shields.io/badge/-High-d73a49?style=flat-square) | [GHSA-p78q-3v9r-c8qg](https://github.com/Countly/countly-server/security/advisories/GHSA-p78q-3v9r-c8qg) |
 | [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) | App-scoped API key takes over sibling applications | ![Critical](https://img.shields.io/badge/-Critical-8b0000?style=flat-square) | **CVE-2026-123800** · [GHSA-4rf2-xqvf-8rcx](https://github.com/supertokens/supertokens-core/security/advisories/GHSA-4rf2-xqvf-8rcx) |
+| [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) | API Key & IP Checks Skipped for Unknown App IDs (App ID Existence Oracle) | ![Medium](https://img.shields.io/badge/-Medium-bf8700?style=flat-square) | [GHSA-8q27-96vx-r652](https://github.com/supertokens/supertokens-core/security/advisories/GHSA-8q27-96vx-r652) |
+| [supertokens/supertokens-node](https://github.com/supertokens/supertokens-node) | Path Confusion | ![Medium](https://img.shields.io/badge/-Medium-bf8700?style=flat-square) | [GHSA-46hr-c4pm-7mx5](https://github.com/supertokens/supertokens-node/security/advisories/GHSA-46hr-c4pm-7mx5) |
 
 
 ## ⏳ In coordinated disclosure
@@ -100,7 +100,7 @@ My process has a few distinctive points, and I'm happy to explain them in detail
 
 ### 🙏 Thanks
 
-Thank you to **[ubicloud](https://github.com/ubicloud)**, **[Countly](https://github.com/Countly)** and **[Paid Memberships Pro](https://github.com/strangerstudios)**
+Thank you to **[ubicloud](https://github.com/ubicloud)**, **[Countly](https://github.com/Countly)**, **[Paid Memberships Pro](https://github.com/strangerstudios)** and **[SuperTokens](https://github.com/supertokens)**
 for supporting this research, and for working through each fix together.
 
 </div>
