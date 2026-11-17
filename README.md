@@ -93,14 +93,3 @@ Nothing is published until the vendor is ready.
 
 Maintainers who want a security review of their project are welcome to reach me at **[tmdals7205@gmail.com](mailto:tmdals7205@gmail.com)**.
 My process has a few distinctive points, and I'm happy to explain them in detail.
-
----
-
-<div align="center">
-
-### 🙏 Thanks
-
-Thank you to **[ubicloud](https://github.com/ubicloud)**, **[Countly](https://github.com/Countly)**, **[Paid Memberships Pro](https://github.com/strangerstudios)** and **[SuperTokens](https://github.com/supertokens)**
-for supporting this research, and for working through each fix together.
-
-</div>
