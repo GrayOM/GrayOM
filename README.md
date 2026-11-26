@@ -9,7 +9,7 @@
 [![Published CVEs](https://img.shields.io/badge/Published_CVEs-6-d73a49?style=for-the-badge)](#-published-findings--cves--credits)
 [![Credited findings](https://img.shields.io/badge/Credited_findings-7-0969da?style=for-the-badge)](#-published-findings--cves--credits)
 [![Bug bounties](https://img.shields.io/badge/Bug_bounties-6-2da44e?style=for-the-badge)](#-bug-bounties)
-[![In coordinated disclosure](https://img.shields.io/badge/In_coordinated_disclosure-5-bf8700?style=for-the-badge)](#-in-coordinated-disclosure)
+[![In coordinated disclosure](https://img.shields.io/badge/In_coordinated_disclosure-6-bf8700?style=for-the-badge)](#-in-coordinated-disclosure)
 
 [![Contact](https://img.shields.io/badge/Security_review-tmdals7205%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:tmdals7205@gmail.com)
 
@@ -49,7 +49,7 @@ Findings the vendor rewarded at its own discretion. Amounts are not listed.
 
 ## ⏳ In coordinated disclosure
 
-> **5** more findings have been confirmed by their vendor or the programme's CNA and are waiting for publication.
+> **6** more findings have been confirmed by their vendor or the programme's CNA and are waiting for publication.
 > Details will appear here once each vendor publishes.
 
 ## 🛠️ How I work
