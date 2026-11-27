@@ -11,8 +11,6 @@
 [![Bug bounties](https://img.shields.io/badge/Bug_bounties-6-2da44e?style=for-the-badge)](#-bug-bounties)
 [![In coordinated disclosure](https://img.shields.io/badge/In_coordinated_disclosure-6-bf8700?style=for-the-badge)](#-in-coordinated-disclosure)
 
-[![Contact](https://img.shields.io/badge/Security_review-tmdals7205%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:tmdals7205@gmail.com)
-
 </div>
 
 ---
